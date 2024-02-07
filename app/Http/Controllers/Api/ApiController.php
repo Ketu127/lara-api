@@ -23,7 +23,7 @@ class ApiController extends Controller
     }
 
     //Refresh Token API (Get Request)
-    public function refresh|(){
+    public function refresh(){
 
     }
 
